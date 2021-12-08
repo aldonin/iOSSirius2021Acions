@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  MyNewApp
 //
-//  Created by Kirill Aldonin on 12/8/21.
+//  Created by Kirill Aldonin on 12/8/21.11
 //
 
 import UIKit
