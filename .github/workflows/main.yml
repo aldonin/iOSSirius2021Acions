@@ -1,0 +1,9 @@
+name: "Build"
+on: pull_request
+
+jobs:
+  build:
+    runs-on: macOS-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: xcodebuild
